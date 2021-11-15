@@ -2,7 +2,7 @@
 using TheDonut.Api.Interfaces;
 using TheDonut.Api.Models;
 
-namespace TheDonut.Api.Queries
+namespace TheDonut.Api.GraphQL.Queries
 {
     public class DonutQuery
     {

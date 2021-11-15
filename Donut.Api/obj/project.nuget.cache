@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X1y50nzaFglBfT+kMq8e5qfgAwNKRA1w7SUFDHvsMo/UG20/5tSo24dNA/N+GviyUcfBm7iZxnFFpZq6W/bkSw==",
+  "dgSpecHash": "Fmj1AFzd6FqjEmNAhdrteBAoZIbhtqSyjnm5rxseJl8BEd4PE4GRzgnk2p4fYWSwy0e0YH24W5v2ialrYnRJ8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rodolfo\\source\\repos\\Donut.Api\\Donut.Api\\TheDonut.Api.csproj",
+  "projectFilePath": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\TheDonut.Api\\Donut.Api\\TheDonut.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rodolfo\\.nuget\\packages\\greendonut\\12.2.1\\greendonut.12.2.1.nupkg.sha512",
     "C:\\Users\\Rodolfo\\.nuget\\packages\\hotchocolate\\12.2.1\\hotchocolate.12.2.1.nupkg.sha512",

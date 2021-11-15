@@ -1,5 +1,5 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-using TheDonut.Api.Queries;
+using TheDonut.Api.GraphQL.Queries;
 
 namespace TheDonut.Api.Installers
 {

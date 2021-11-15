@@ -4,3 +4,18 @@
 
 
 Donut Api 
+
+## Tecnologies Used
+
+<table>
+<tr>
+	<th>C#</th>
+	<th>.NET</th>
+	<th>HotChocolate</th>
+</tr>
+<tr>
+	<td>9.0</td>
+	<td>5.0</td>
+	<td>12.2.1</td>
+</tr>
+</table>

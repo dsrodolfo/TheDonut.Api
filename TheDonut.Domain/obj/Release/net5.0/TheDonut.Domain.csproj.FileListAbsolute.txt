@@ -1,0 +1,11 @@
+C:\Users\Rodolfo\Desktop\PersonalProjects\TheDonut.Api\TheDonut.Domain\bin\Release\net5.0\TheDonut.Domain.deps.json
+C:\Users\Rodolfo\Desktop\PersonalProjects\TheDonut.Api\TheDonut.Domain\bin\Release\net5.0\TheDonut.Domain.dll
+C:\Users\Rodolfo\Desktop\PersonalProjects\TheDonut.Api\TheDonut.Domain\bin\Release\net5.0\ref\TheDonut.Domain.dll
+C:\Users\Rodolfo\Desktop\PersonalProjects\TheDonut.Api\TheDonut.Domain\bin\Release\net5.0\TheDonut.Domain.pdb
+C:\Users\Rodolfo\Desktop\PersonalProjects\TheDonut.Api\TheDonut.Domain\obj\Release\net5.0\TheDonut.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodolfo\Desktop\PersonalProjects\TheDonut.Api\TheDonut.Domain\obj\Release\net5.0\TheDonut.Domain.AssemblyInfoInputs.cache
+C:\Users\Rodolfo\Desktop\PersonalProjects\TheDonut.Api\TheDonut.Domain\obj\Release\net5.0\TheDonut.Domain.AssemblyInfo.cs
+C:\Users\Rodolfo\Desktop\PersonalProjects\TheDonut.Api\TheDonut.Domain\obj\Release\net5.0\TheDonut.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rodolfo\Desktop\PersonalProjects\TheDonut.Api\TheDonut.Domain\obj\Release\net5.0\TheDonut.Domain.dll
+C:\Users\Rodolfo\Desktop\PersonalProjects\TheDonut.Api\TheDonut.Domain\obj\Release\net5.0\ref\TheDonut.Domain.dll
+C:\Users\Rodolfo\Desktop\PersonalProjects\TheDonut.Api\TheDonut.Domain\obj\Release\net5.0\TheDonut.Domain.pdb

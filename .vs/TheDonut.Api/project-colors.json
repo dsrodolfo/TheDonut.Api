@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac228786-d0d6-41cc-9bcf-bfb135964d3d": {
+      "ProjectGuid": "ac228786-d0d6-41cc-9bcf-bfb135964d3d",
+      "DisplayName": "TheDonut.Api",
+      "ColorIndex": 0
+    },
+    "fe32b512-91d1-43c1-8668-089d9edc8b72": {
+      "ProjectGuid": "fe32b512-91d1-43c1-8668-089d9edc8b72",
+      "DisplayName": "TheDonut.Infrastructure",
+      "ColorIndex": 1
+    },
+    "ecba5376-a67b-438a-8606-e9af586d9345": {
+      "ProjectGuid": "ecba5376-a67b-438a-8606-e9af586d9345",
+      "DisplayName": "TheDonut.Application",
+      "ColorIndex": 2
+    },
+    "15b9961a-ba0e-45ae-8202-5e5eae209dff": {
+      "ProjectGuid": "15b9961a-ba0e-45ae-8202-5e5eae209dff",
+      "DisplayName": "TheDonut.Domain",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

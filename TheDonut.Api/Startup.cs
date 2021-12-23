@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using TheDonut.Api.Installers;
+using TheDonut.Application.Installers;
 
 namespace TheDonut.Api
 {
@@ -18,7 +18,7 @@ namespace TheDonut.Api
 
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDonutServices()
+            services.AddDbContextServices(Configuration)
                     .AddGraphQLServices();
         }
 
@@ -33,7 +33,7 @@ namespace TheDonut.Api
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapGraphQL();
+                endpoints.MapGraphQL("/graphql");
             });
         }
     }

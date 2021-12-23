@@ -1,0 +1,226 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\TheDonut.Api\\TheDonut.Application\\TheDonut.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\TheDonut.Api\\TheDonut.Application\\TheDonut.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\TheDonut.Api\\TheDonut.Application\\TheDonut.Application.csproj",
+        "projectName": "TheDonut.Application",
+        "projectPath": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\TheDonut.Api\\TheDonut.Application\\TheDonut.Application.csproj",
+        "packagesPath": "C:\\Users\\Rodolfo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\TheDonut.Api\\TheDonut.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rodolfo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "http://nuget.signa.net.br/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\TheDonut.Api\\TheDonut.Domain\\TheDonut.Domain.csproj": {
+                "projectPath": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\TheDonut.Api\\TheDonut.Domain\\TheDonut.Domain.csproj"
+              },
+              "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\TheDonut.Api\\TheDonut.Infrastructure\\TheDonut.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\TheDonut.Api\\TheDonut.Infrastructure\\TheDonut.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\TheDonut.Api\\TheDonut.Domain\\TheDonut.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\TheDonut.Api\\TheDonut.Domain\\TheDonut.Domain.csproj",
+        "projectName": "TheDonut.Domain",
+        "projectPath": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\TheDonut.Api\\TheDonut.Domain\\TheDonut.Domain.csproj",
+        "packagesPath": "C:\\Users\\Rodolfo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\TheDonut.Api\\TheDonut.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rodolfo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "http://nuget.signa.net.br/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\TheDonut.Api\\TheDonut.Infrastructure\\TheDonut.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\TheDonut.Api\\TheDonut.Infrastructure\\TheDonut.Infrastructure.csproj",
+        "projectName": "TheDonut.Infrastructure",
+        "projectPath": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\TheDonut.Api\\TheDonut.Infrastructure\\TheDonut.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Rodolfo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\TheDonut.Api\\TheDonut.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rodolfo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "http://nuget.signa.net.br/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\TheDonut.Api\\TheDonut.Domain\\TheDonut.Domain.csproj": {
+                "projectPath": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\TheDonut.Api\\TheDonut.Domain\\TheDonut.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "HotChocolate.AspNetCore": {
+              "target": "Package",
+              "version": "[12.2.1, )"
+            },
+            "HotChocolate.Data": {
+              "target": "Package",
+              "version": "[12.2.1, )"
+            },
+            "HotChocolate.Data.EntityFramework": {
+              "target": "Package",
+              "version": "[12.2.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

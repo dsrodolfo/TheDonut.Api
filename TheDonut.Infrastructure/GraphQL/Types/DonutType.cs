@@ -9,6 +9,7 @@ namespace TheDonut.Infrastructure.GraphQL.Types
         {
             descriptor.Name("Donut");
             descriptor.Description("An object type");
+
             descriptor.Field(f => f.Id).Description("A field")
                                        .Type<IdType>();
 

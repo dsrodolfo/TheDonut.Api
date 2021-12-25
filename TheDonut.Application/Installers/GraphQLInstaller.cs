@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
+using TheDonut.Infrastructure.GraphQL.Mutations;
 using TheDonut.Infrastructure.GraphQL.Queries;
 
 namespace TheDonut.Application.Installers
@@ -9,6 +10,7 @@ namespace TheDonut.Application.Installers
         {
             services.AddGraphQLServer()
                     .AddQueryType<Query>()
+                    .AddMutationType<Mutation>()
                     .AddProjections()
                     .AddFiltering()
                     .AddSorting();

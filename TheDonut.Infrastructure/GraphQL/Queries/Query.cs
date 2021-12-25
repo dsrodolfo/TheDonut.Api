@@ -11,10 +11,7 @@ namespace TheDonut.Infrastructure.GraphQL.Queries
         [UseProjection]
         [UseFiltering]
         [UseSorting]
-        public IQueryable<Donut> Donuts([Service] DonutDbContext context) 
-        {
-            var donuts = context.Donut;
-            return donuts;
-        }
+        public IQueryable<Donut> Donuts([Service] DonutDbContext context)  => context.Donut;
+        public Donut FindDonut([Service] DonutDbContext context, int id) => context.Donut.SingleOrDefault(x => x.Id == id); 
     }
 }

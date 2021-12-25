@@ -1,15 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.32002.185
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheDonut.Api", "TheDonut.Api\TheDonut.Api.csproj", "{AC228786-D0D6-41CC-9BCF-BFB135964D3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheDonut.Infrastructure", "TheDonut.Infrastructure\TheDonut.Infrastructure.csproj", "{FE32B512-91D1-43C1-8668-089D9EDC8B72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheDonut.Infrastructure", "TheDonut.Infrastructure\TheDonut.Infrastructure.csproj", "{FE32B512-91D1-43C1-8668-089D9EDC8B72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheDonut.Application", "TheDonut.Application\TheDonut.Application.csproj", "{ECBA5376-A67B-438A-8606-E9AF586D9345}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheDonut.Application", "TheDonut.Application\TheDonut.Application.csproj", "{ECBA5376-A67B-438A-8606-E9AF586D9345}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheDonut.Domain", "TheDonut.Domain\TheDonut.Domain.csproj", "{15B9961A-BA0E-45AE-8202-5E5EAE209DFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheDonut.Domain", "TheDonut.Domain\TheDonut.Domain.csproj", "{15B9961A-BA0E-45AE-8202-5E5EAE209DFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheDonut.IntegrationTest", "TheDonut.IntegrationTest\TheDonut.IntegrationTest.csproj", "{3B7D4325-AD39-4A4A-94A6-1ABC93AC8D7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{15B9961A-BA0E-45AE-8202-5E5EAE209DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15B9961A-BA0E-45AE-8202-5E5EAE209DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15B9961A-BA0E-45AE-8202-5E5EAE209DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B7D4325-AD39-4A4A-94A6-1ABC93AC8D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7D4325-AD39-4A4A-94A6-1ABC93AC8D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7D4325-AD39-4A4A-94A6-1ABC93AC8D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7D4325-AD39-4A4A-94A6-1ABC93AC8D7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

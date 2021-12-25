@@ -13,11 +13,20 @@ Donut Api
 	<th>.NET</th>
 	<th>HotChocolate</th>
 	<th>Entity Framework Core</th>
+	<th>Npgsql Entity Framework Core</th>
 </tr>
 <tr>
 	<td>9.0</td>
 	<td>5.0</td>
 	<td>12.2.1</td>
 	<th>5.0.10</th>
+	<th>5.0.10</th>
 </tr>
+</table>
+
+## Types of Testing
+<table>
+	<tr>
+	  <td>Integration Testing</td>
+	</tr>
 </table>
